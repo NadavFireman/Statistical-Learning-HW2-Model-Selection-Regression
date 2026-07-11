@@ -17,6 +17,3 @@ Model selection worked end-to-end on three datasets — household income vs. exp
 - `Statistical_Learning_HW2.pdf`: PDF export of the executed notebook.
 - `haifa_res.csv` / `psych_data.txt` / `titanic.csv`: Datasets (Q1–Q3).
 - `Assignment_Instructions_2.pdf`: Original course assignment.
-
----
-*Course: Statistical Learning, M.Sc. Data Science, HIT · Python, Pandas, NumPy, statsmodels, scikit-learn, SciPy, Matplotlib, Seaborn*
